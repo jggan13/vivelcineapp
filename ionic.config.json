@@ -1,0 +1,7 @@
+{
+  "name": "vivelcine",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
